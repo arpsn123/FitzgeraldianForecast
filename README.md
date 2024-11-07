@@ -1,6 +1,15 @@
 # Text Prediction Using LSTM on "The Great Gatsby"
 
-![Python](https://img.shields.io/badge/python-3.x-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-red) ![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/FitzgeraldianForecast?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/FitzgeraldianForecast?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/FitzgeraldianForecast)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/FitzgeraldianForecast)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/FitzgeraldianForecast)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/FitzgeraldianForecast)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/FitzgeraldianForecast)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/FitzgeraldianForecast)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/FitzgeraldianForecast)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/FitzgeraldianForecast?style=social)
 
 This project implements a Long Short-Term Memory (LSTM) model to predict the next character in a sequence based on the text from "The Great Gatsby" by Francis Scott Key Fitzgerald. The model captures the unique tone and style of Fitzgerald's writing, showcasing the power of deep learning in natural language processing. By utilizing advanced machine learning techniques, this project demonstrates how artificial intelligence can mimic literary styles, providing insights into both technology and literature.
 
